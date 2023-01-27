@@ -1,0 +1,10 @@
+.Board-wrapper {
+    display: flex;
+    margin: 5% auto;
+    gap: 0.5em;
+    min-width: 10em;
+    max-width: 100em;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;   
+}

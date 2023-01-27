@@ -1,0 +1,15 @@
+
+    .Card {
+        border: solid 1px black;
+        min-height: 14em;
+        min-width: 10em;
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 0.2em;
+        //position: absolute;
+        will-change: transform, opacity;
+        background-size: cover;
+        font-size: 1rem;
+        font-weight: 600;
+    }
